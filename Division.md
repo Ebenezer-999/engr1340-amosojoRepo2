@@ -1,5 +1,5 @@
 # Dividing Integers
 
-Division is the split of a total amount into equal, smaller divisors resulting in a quotient
+This is the split of a total amount into equal or smaller divisors
 
-Ex) 120/2= 60
+Ex) 120/20= 6
